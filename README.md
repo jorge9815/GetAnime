@@ -1,1 +1,4 @@
 # GetAnime
+
+## Features
+1. 
